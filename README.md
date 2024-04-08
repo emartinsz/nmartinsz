@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @nmartinsz
-- 👀 I’m interested in front-end development, web design, and creating user-friendly websites.
-- 🌱 I’m currently learning React.js and improving my skills in HTML, CSS, and JavaScript.
-- 💞️ I’m looking to collaborate on projects related to website development.
-- 📫 How to reach me: You can reach me via email at emilynataly01@icloud.com.
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm also passionate about hiking and outdoor photography!
+Atualmente sou estudante do curso de Análise e Desenvolvimento de Sistemas na UniAmérica, estou determinada a aprimorar minhas habilidades neste campo em constante transformação. Desde a adolescência, mergulhei no mundo da tecnologia, explorando a criação de websites e programação. No entanto, foi a fusão entre criatividade e tecnologia que realmente me cativou. Ao adentrar o vasto território da programação, descobri um universo de possibilidades para expressar minha inventividade e resolver problemas de forma inovadora. Estou entusiasmada para continuar aprendendo e crescendo neste emocionante campo, contribuindo para criar soluções impactantes e inspiradoras.
 
 <!---
 nmartinsz/nmartinsz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
